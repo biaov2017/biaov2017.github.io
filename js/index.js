@@ -1,1 +1,0 @@
-window.onload=function(){new Swiper(".swiper-container",{loop:!0,autoplay:!0,delay:3e3,effect:"coverflow",speed:1e3,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},pagination:{el:".swiper-pagination",dynamicBullets:!0}})};
