@@ -1,6 +1,6 @@
 # biaov.github.io
 
-- 网址输入：`https://biaov.github.io/`
+- 网址：`https://biaov2017.github.io/`
 - [个人网站](https://biaov.github.io/)
 
 <p align="center">
